@@ -171,7 +171,8 @@ Add your deployed frontend URL here.
 B.Tech Computer Science and Engineering
 
 GitHub: https://github.com/Deep-Lakshmi/virtual-meeting-web
-Live : https://virtual-meeting-web.onrender.com
+
+Live Demo: https://virtual-meeting-web.onrender.com
 
 ---
 
